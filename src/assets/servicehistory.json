@@ -1,0 +1,16 @@
+{
+    "key": "ServiceRecords",
+    "value": [
+        {
+            "UID": "new",
+            "equipmentUID": "e909cff0-dc67-11ed-b82c-29e9fb85c0d2",
+            "equipmentName": "Water Systems",
+            "moduleUID": "e909cff7-dc67-11ed-b82c-29e9fb85c0d2",
+            "moduleName": "",
+            "description": "Check electrical connections, hydraulic connections and plumbing fittings  ",
+            "notes": "checked prior to leaving CPT",
+            "date": "2023-04-20T06:33:05.152Z",
+            "hours": 0
+        }
+    ]
+}

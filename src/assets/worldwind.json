@@ -1,0 +1,3418 @@
+{
+    "key": "Equipment",
+    "value": [
+        {
+            "UID": "e9095ac0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Winter Clothes & Linen",
+            "description": "Winter Clothes & Linen",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.779Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e9095ac1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Revacuum Pack (& repair S/Bag) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.780Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e9095ac2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Windows",
+            "description": "Cleaning",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.780Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e9095ac3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Spray Vinegar and water mixture then spray with water to remove all salt.  Can also use winder cleaner (Windex) to clean smudges.  DO NOT USE HARD BRUSH",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.780Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90981d0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Windlass",
+            "description": "Windlass",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.781Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90981d1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean & regrease Gypsy & drum sides ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.781Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90981d2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Wind Genny Controller Box",
+            "description": "Wind Genny Controller Box",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.781Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90981d3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Brush & Spray with Corrosion X ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.781Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909a8e0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Winches",
+            "description": "Winches",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.782Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909a8e1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean & regrease (cruisingworld/how/overhaul-your-winches) - put box with cut out ring over winch ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.782Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909a8e2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Wet Weather Gear",
+            "description": "Wet Weather Gear",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.782Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909a8e3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Air Out/Check Mould ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.782Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909cff0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Water Systems",
+            "description": "Fresh Water Tanks",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-20T06:33:05.152Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909cff1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Set Accumulator Tank pressure using bicycle pump and gauge to 3 psi Only if fresh water pump cycles too frequently or too infrequently",
+                    "repeatable": "",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff2-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Add bleach - Rudi? ",
+                    "repeatable": "",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Adjust pressure screw on bottom of pump when under or over cycling Pump is set to accumulator tank pressure of .2 bars (3 psi))",
+                    "repeatable": "",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff4-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Drain by removing intake hose Winterizing",
+                    "repeatable": "",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Drain by removing intake hose Winterizing",
+                    "repeatable": "",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff6-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect Strainer When filling tank from dock hose",
+                    "repeatable": "",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff7-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check electrical connections, hydraulic connections and plumbing fittings  ",
+                    "repeatable": "Y",
+                    "timeInterval": "60",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-20T06:33:05.152Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cff9-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Switch to other tank ",
+                    "repeatable": "Y",
+                    "timeInterval": "30",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cffa-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Switch to other pump ",
+                    "repeatable": "Y",
+                    "timeInterval": "30",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909cffb-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Water Maker",
+            "description": "Water Maker",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": true,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.783Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909cffc-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Dismantle & clean booster pumps x2 (last done 12/16) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cffd-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace charcoal fresh water flush filter (last replaced 11/16) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cffe-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Seawater Strainer ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909cfff-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Replace (if need) Seawater Strainer every 600hrs (last replaced @? Hrs, 07/16) ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": 600,
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909d000-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean prefilters ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.783Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909f700-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Water Lock",
+            "description": "Water Lock",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.784Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909f701-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check hose connections (water/gas?) ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.784Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909f702-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Water Filter - Galley",
+            "description": "Water Filter - Galley",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.784Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909f703-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Replace filters (5micron each pleated/carbon) - last done 09/16 ",
+                    "repeatable": "",
+                    "timeInterval": "270",
+                    "hourInterval": "270",
+                    "lastServiceDate": "2023-04-16T15:03:56.784Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e909f704-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Upholstery",
+            "description": "Upholstery - Inside",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.784Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e909f705-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Steam clean (last 18/1/17 - 4 mths average) ",
+                    "repeatable": "",
+                    "timeInterval": "120",
+                    "hourInterval": "120",
+                    "lastServiceDate": "2023-04-16T15:03:56.784Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e909f706-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash & Waterproof (last 12/15 - yrly) ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.784Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a1e10-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Trampolines",
+            "description": "Trampolines",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.785Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a1e11-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Restitch edges (last done 1/1/16) ",
+                    "repeatable": "",
+                    "timeInterval": "730",
+                    "hourInterval": "730",
+                    "lastServiceDate": "2023-04-16T15:03:56.785Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a1e12-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Replace Tie ropes ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.785Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a1e13-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Tools",
+            "description": "Tools",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.785Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a1e14-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Derust (Ospho)/wash & CorrX lubricate (last done 10/12/16) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.785Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a1e15-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Toilets",
+            "description": "Toilets",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.785Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a1e16-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Flush white vinegar & oil, conditioner in Hldg Tanks ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.785Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a1e17-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check filter (if using seawater) ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.785Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a1e18-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Flush (vinegar/Warm Water/Vege Oil) ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.785Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a4520-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Thru-Hull fittings",
+            "description": "Thru-Hull fittings ",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.786Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a4521-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Paddle Wheel ",
+                    "repeatable": "",
+                    "timeInterval": "1825",
+                    "hourInterval": "1825",
+                    "lastServiceDate": "2023-04-16T15:03:56.786Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a4522-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean all (incl paddle wheel) - B/Buster & Grease WORK ALL OPEN AND SHUT!! - 2 port/4 stbd/2 engine ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.786Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a4523-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Throttle",
+            "description": "Throttle",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.786Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a4524-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash control head & handlever (Ospho if need) ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.786Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a4525-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Strataglass",
+            "description": "Strataglass",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.786Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a4526-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean & Polish (last done fully 10/12/16) ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.786Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a6c30-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Steering",
+            "description": "Steering",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.787Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a6c31-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Tension Cables (last done 12/16) ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.787Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a6c32-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Add 1 - 2 drops machine oil to the 2 sets of shives each year.  Do not lubricate otherwise. ",
+                    "repeatable": "",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.787Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a6c33-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect cables for wear, corrosion.  Tighten ",
+                    "repeatable": "Y",
+                    "timeInterval": "?",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.787Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a6c34-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Standing Rigging",
+            "description": "Shrouds",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.787Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a6c35-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect at swage fittings for corrosion Replace when strand is broken",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.787Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a6c36-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Stainless steel",
+            "description": "Stainless threads",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.787Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a6c37-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "Tegfel",
+                    "description": "Apply Tefgel on exposed threads to minimize corrosion Turnbuckes, gooseneck",
+                    "repeatable": true,
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.787Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a6c38-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "Vaseline",
+                    "description": "Apply vasoline to all areas not usually touched Long voyages",
+                    "repeatable": true,
+                    "timeInterval": 30,
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.787Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a9340-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Stainless Steel",
+            "description": "Stainless Steel",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.788Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a9341-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Stainless Steel (derust & polish) & struts - last done 12/16 (Stbd side), 10/16 Port side ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a9342-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Stainless polish As needed",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a9343-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Solar Regulators",
+            "description": "Solar Regulators (x2)",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.788Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a9344-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check earth & other connections for corrosion & chafing(last done 01/16) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a9345-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Saloon",
+            "description": "Saloon Table/Door & Hatch locks, hinges & padlocks/Dingy padlocks/Jamcleats",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.788Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a9346-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Graphite Spray/Silicon is OK ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90a9347-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Sails",
+            "description": "Sails",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-18T03:35:05.344Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90a9348-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check stitching on jib (esp UV strip last resewn 05/16) & check screecher stitching & \"damage\" (eg: when rolled, last resewn 05/16) ",
+                    "repeatable": "",
+                    "timeInterval": "1095",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a9349-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash fresh water/Check for tears ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a934a-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a934b-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Move halyard position at sheeve For Genoa - Inspect at mast top. Must respice eye.",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-18T03:35:05.344Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a934c-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect for fluff in dyneema at mast exits ",
+                    "repeatable": "Y",
+                    "timeInterval": "90",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a934d-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect 3 screws on drum - can loosen ",
+                    "repeatable": "Y",
+                    "timeInterval": "60",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a934e-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect 5 dyneema loops on boom bottom ",
+                    "repeatable": "Y",
+                    "timeInterval": "180",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a934f-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Adjust luff sag as dyneema line stretches Should be no slack on dyneema line",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a9350-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect for tears ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90a9351-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Inspect small green line near entry to foil ",
+                    "repeatable": "Y",
+                    "timeInterval": "180",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.788Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90aba50-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Saildrives",
+            "description": "Saildrives",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": true,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.789Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90aba51-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "Fluids",
+                    "description": "Check Oil levels ",
+                    "repeatable": true,
+                    "timeInterval": "7",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.789Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90aba52-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "Clutch",
+                    "description": "Remove/Replace Clutch Cone System & Service (Haulout) - (every 500hrs, last done 1860hrs, 11/16 @ The Boatworks, Oz) ",
+                    "repeatable": true,
+                    "timeInterval": "0",
+                    "hourInterval": 500,
+                    "lastServiceDate": "2023-04-16T15:03:56.789Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90aba53-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "Anodes",
+                    "description": "Check/Replace anodes (every 3-400 hrs/or 6 mthly) - last 1630 hrs 05/16 (330 hrs) NB: Keep ALL old ones and date. ",
+                    "repeatable": true,
+                    "timeInterval": 180,
+                    "hourInterval": 350,
+                    "lastServiceDate": "2023-04-16T15:03:56.789Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90aba54-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "Service",
+                    "description": "Service (every 250 hrs) - av. of 1.5lts  per change ",
+                    "repeatable": true,
+                    "timeInterval": "0",
+                    "hourInterval": 250,
+                    "lastServiceDate": "2023-04-16T15:03:56.789Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90ae160-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Safety",
+            "description": "Nuova Rade Lifebuoy Light",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.790Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90ae161-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Remove battery Long Term storage",
+                    "repeatable": "Y",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90ae162-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Turn upside down to verify LED is blinking.  ",
+                    "repeatable": "Y",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90ae163-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace D Battery ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90ae164-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace ",
+                    "repeatable": "Y",
+                    "timeInterval": "check dates",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90ae165-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Safes",
+            "description": "Safes",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.790Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90ae166-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Change batteries when Gr/Rd lights on ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90ae167-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Running Rigging",
+            "description": "Dyneema Lines",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.790Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90ae168-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace lines with no covers ",
+                    "repeatable": "Y",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90ae169-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash with fresh water.  Remove salt.  Replace when cover is broken - cover is part of the line strength. ",
+                    "repeatable": "Y",
+                    "timeInterval": "30",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.790Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b0870-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Ropes (incl. Boom Ropes)",
+            "description": "Ropes (incl. Boom Ropes)",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.791Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b0871-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check for chafing (& Screecher Softstrop) & mainsail reefing rollers working (esp #2 reef rope/Spinnaker Halyard) ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.791Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b0872-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Rigging/Up Mast",
+            "description": "Rigging/Up Mast",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.791Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b0873-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "RIGGING - Check boom gooseneck split pin, shackles & fittings (last @The Boatworks 11/16 (4 mths) - Use feet to push X wires (which connect to mast) & bang top of shrouds. Clean rigging fittings with brass brush and fresh water only! (not done since 10/15).Lanoline leather caps (bow/mast). Turn adjustable  shroud fittings with spanner - 180 degrees and back (to keep threads moving). Keep plastic sleeves up!                                            LIGHTS - clean/drop oil into elec connections                    ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.791Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b0874-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Rigging",
+            "description": "Rigging",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.791Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b0875-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Bat car plastic - teflon/detergent wash cars ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.791Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b0876-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check all lights working ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.791Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b2f80-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Rig",
+            "description": "Cleaning",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.791Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b2f81-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean mast track with MacLube As needed",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f82-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash with fresh water.  Normal to turn black and harden.  No other maintenance required ",
+                    "repeatable": "Y",
+                    "timeInterval": "30",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b2f83-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Raymarine",
+            "description": "iTC 5",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.792Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b2f84-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f85-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f86-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f87-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f88-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f89-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f8a-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f8b-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f8c-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f8d-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f8e-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f8f-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f90-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f91-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f92-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f93-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b2f94-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Propellers",
+            "description": "Propellers",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.792Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b2f95-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Apply Protective coating (Prospeed) - last done 12/16 ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b2f96-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Remove & Check props & pins (when clean hull) - last done 27/1/17 ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.792Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b5690-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Oven",
+            "description": "Oven",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.793Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b5691-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Stainless Steel & Burners & Inside ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b5692-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Change Batteries (last done11/15 - lasted 2.5 yrs) ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b5693-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Outboard",
+            "description": "Outboard Motor",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.793Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b5694-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Service (12month = 300hrs = current use - last done 09/16)) - Note Separate Anode dates ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b5695-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Last done 14/9/16 (approx 300hrs p.a.) Note separate anode dates ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b5696-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Flush with Fresh Water/CorrossionX Fuel Filter nuts & Filter itself/check & drain fuel filter ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b5697-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Replace Impeller/Fuel Pump ",
+                    "repeatable": "",
+                    "timeInterval": "300 hrs",
+                    "hourInterval": "300 hrs",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b5698-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Shaft Anode (last done 14/9/16) ",
+                    "repeatable": "",
+                    "timeInterval": "730",
+                    "hourInterval": "730",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b5699-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Replace Parker Racor Fuel Filter - last replaced 06/16 (after 3 years) ",
+                    "repeatable": "",
+                    "timeInterval": "730",
+                    "hourInterval": "730",
+                    "lastServiceDate": "2023-04-16T15:03:56.793Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b569a-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Nav Lights",
+            "description": "Nav Lights",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.793Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b7da0-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Bulb contacts (with drop oil) - last done 10/16 ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.794Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b7da1-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Metal Fittings",
+            "description": "Engines/Metal Fittings/Cabin Door Magnetic Catches/Fuel transfer Pump/Dive Compressor",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.794Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b7da2-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean & Corrossion \"X\" Spray  ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.794Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b7da3-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Manual Bilge Pumps",
+            "description": "Manual Bilge Pumps",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.794Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b7da4-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Rubber component (regardless of condition) - Port new 11/16/Stbd OK - check Yrly) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.794Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b7da5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Test working (with bucket) & rubbers OK (last 12/15) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.794Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90b7da6-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check hose clamps (esp Port Lazarette) for rust - last replaced 04/16 ",
+                    "repeatable": "",
+                    "timeInterval": "730",
+                    "hourInterval": "730",
+                    "lastServiceDate": "2023-04-16T15:03:56.794Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90b7da7-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "MOB Light (on L/Jkts)",
+            "description": "MOB Light (on L/Jkts)",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.794Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90b7da8-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Light/Battery ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.794Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90ba4b0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Liferaft",
+            "description": "Liferaft",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.795Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90ba4b1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Service ",
+                    "repeatable": "",
+                    "timeInterval": "1095",
+                    "hourInterval": "1095",
+                    "lastServiceDate": "2023-04-16T15:03:56.795Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90ba4b2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Lifejackets",
+            "description": "Lifejackets - Spinlock x2",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.795Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90ba4b3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Gas Cylinders - firing Pin colour (Green OK, Red replace) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.795Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90ba4b4-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Cylinders - replace if red - how? ",
+                    "repeatable": "",
+                    "timeInterval": "1095",
+                    "hourInterval": "1095",
+                    "lastServiceDate": "2023-04-16T15:03:56.795Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90ba4b5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Inspect condition for functionality (NB: Cylinder check in 2017) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.795Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90bcbc0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Laminator",
+            "description": "Laminator",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.796Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90bcbc1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Use \"Cleaning: sheets - (never done yet) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.796Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90bcbc2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Knives",
+            "description": "Knives",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.796Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90bcbc3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Derust and sharpen ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.796Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90bcbc4-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Kettle/Fog Horn",
+            "description": "Kettle/Fog Horn",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.796Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90bcbc5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Vasoline Metal Rims & Kettle spout ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.796Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90bf2d0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Hull",
+            "description": "Hull",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.797Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90bf2d1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "(Expose &) Clean bottom & thru-hull fittings- NB Wear Skinsuit!! - last done 27/1/17 (new antifoul 11/15 & touchup of waterline & chain damage 11/16) ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.797Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90bf2d2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Heater/Aircon",
+            "description": "Heater/Aircon",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.797Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90bf2d3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Regular Monthly Check (Run Heater 1HR/mth) ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.797Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90bf2d4-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Heater (Contractor!)",
+            "description": "Heater (Contractor!)",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.797Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90bf2d5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Exhaust Valves (Co,CO2) & do PC Diagnosis (told to ignore - never done) ",
+                    "repeatable": "",
+                    "timeInterval": "730",
+                    "hourInterval": "730",
+                    "lastServiceDate": "2023-04-16T15:03:56.797Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c19e0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Heater",
+            "description": "Heater",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.798Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c19e1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Annual Service (see p104 list) - Ignore ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.798Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90c19e2-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Heat Exchanger ",
+                    "repeatable": "",
+                    "timeInterval": "3650",
+                    "hourInterval": "3650",
+                    "lastServiceDate": "2023-04-16T15:03:56.798Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c19e3-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Hatches (external rear)",
+            "description": "Hatches (external rear)",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.798Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c19e4-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean all undersides ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.798Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c40f0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Hatches",
+            "description": "Replace and repair leaks",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.799Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c40f1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "New seal kits, aviable from Lewmar  NO LUBRICANTS",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.799Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90c40f2-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Tighten when loose using 3mm hex wrench on tension screw 1/8 turn clockwise until tight.  Do not overtighten When loose",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.799Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c40f3-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Gelcoat",
+            "description": "Cleaning",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.799Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c40f4-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Rewax topsides and smooth deck areas Recommend Farecla G3 Wax.  Do every 6 months if near a city",
+                    "repeatable": "",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.799Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90c40f5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Any car wash with wax, no degreasers like Clean Green Recommend Shieldaway",
+                    "repeatable": "",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.799Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c40f6-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Furling Blocks",
+            "description": "Furling Blocks",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.799Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c40f7-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace furling ropes (never done - OK so far) ",
+                    "repeatable": "",
+                    "timeInterval": "730",
+                    "hourInterval": "730",
+                    "lastServiceDate": "2023-04-16T15:03:56.799Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c6800-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Fuel Transfer System",
+            "description": "Fuel Transfer System",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.800Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c6801-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Test/Run ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.800Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c6802-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Fuel Tanks",
+            "description": "Fuel Tanks",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.800Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c6803-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Open & Inspect for dirt (never done) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.800Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c8f10-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Freezers (in Fridges)",
+            "description": "Freezers (in Fridges)",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.801Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c8f11-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Defrost ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.801Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c8f12-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Freezer Drawers",
+            "description": "Freezer Drawers",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.801Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c8f13-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Defrost & clean (last done 8/1/17) ",
+                    "repeatable": "",
+                    "timeInterval": "150",
+                    "hourInterval": "150",
+                    "lastServiceDate": "2023-04-16T15:03:56.801Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90c8f14-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Food Areas",
+            "description": "Food Areas",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.801Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90c8f15-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Spring Clean (last done 10/16 - first time) ",
+                    "repeatable": "",
+                    "timeInterval": "1095",
+                    "hourInterval": "1095",
+                    "lastServiceDate": "2023-04-16T15:03:56.801Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90cb620-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Flexiteek",
+            "description": "Cleaning",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.802Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90cb621-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Any dishwashing soap Sea Flexiteek kit",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.802Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90cb622-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Flares",
+            "description": "Flares",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.802Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90cb623-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Stk list & Note types/dates when to buy in Diary ",
+                    "repeatable": "",
+                    "timeInterval": "1095",
+                    "hourInterval": "1095",
+                    "lastServiceDate": "2023-04-16T15:03:56.802Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90cdd30-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Fire Extinguishers - Engine",
+            "description": "Fire Extinguishers - Engine",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.803Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90cdd31-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Guage (for proper pressure) & Weigh cylinder (never weighed 1/2/15 - don't worry if green) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.803Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90cdd32-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace every 10 years - made 04/11 ",
+                    "repeatable": "",
+                    "timeInterval": "1460",
+                    "hourInterval": "1460",
+                    "lastServiceDate": "2023-04-16T15:03:56.803Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90cdd33-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Fans",
+            "description": "Fans",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.803Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90cdd34-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash Clean  - last done 16/10/16 ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.803Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90cdd35-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Tighten Fasteners ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.803Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90cdd36-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Epirb",
+            "description": "Epirb",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.803Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90cdd37-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Battery ",
+                    "repeatable": "",
+                    "timeInterval": "1825",
+                    "hourInterval": "1825",
+                    "lastServiceDate": "2023-04-16T15:03:56.803Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90cdd38-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Test (In first 5mins of HR) - lots of Green flashes on 25/1/17 ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.803Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d0440-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Engines",
+            "description": "Engines",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.804Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d0441-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Service (every 250 hrs) +& clamps check starter battery connections, all engine nuts  ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.804Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d0442-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Engine Mounting Bolts",
+            "description": "Engine Mounting Bolts",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.804Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d0443-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/Tighten (#18 crescent) ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.804Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d2b50-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Engine",
+            "description": "Engine",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.805Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d2b51-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Rubber Mounts for Rust & Vulcanizing ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b52-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": " ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b53-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace all rubber hoses ",
+                    "repeatable": "Y",
+                    "timeInterval": "720",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b54-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check electrical connections for tightness ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b55-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check/tighten/replace belts Belt should turn 90 degrees or 8-9 mm.  If more, tighten. If less, loosen,",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b56-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Battery Level and Eletrolyte ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "50",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b57-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace elbow ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "500",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b58-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean elbow ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b59-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean intake silencer - air cleaner element ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b5a-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Yanmar Maintenance ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b5b-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Coolant If Long Life Coolant, every 2 years. 6.3 quarts, reservoir .8 quarts.",
+                    "repeatable": "Y",
+                    "timeInterval": "720",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b5c-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace Impeller ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b5d-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Impeller ",
+                    "repeatable": "Y",
+                    "timeInterval": "360",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b5e-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil and filter No separate transmission oil replacement. 5-6 quarts.  Dipstick range max to min is 1.5 quarts. Remove cap when draining.",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b5f-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace fuel filter ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b60-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Drain fuel/water separator May need to loosen the air vent screw on top of the separator",
+                    "repeatable": "Y",
+                    "timeInterval": "30",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d2b61-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Drain Water and sediment from tank ",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d2b62-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Electrics",
+            "description": "Electrics",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.805Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d2b63-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Spray DWF/WD40 over connecting Terminals (incl Lazarette fittings)/Genset Battery ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d2b64-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Elec Connections",
+            "description": "Elec Connections",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.805Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d2b65-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Tighten all Inverter/Elec Board/Battery connections (last done 05/16) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.805Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d5260-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Dive Gear",
+            "description": "Dive Gear",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.806Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d5261-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Test all (when not in use) - last done 07/15 ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d5262-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Dive Compressor",
+            "description": "Release pressure",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.806Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d5263-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check final safety release pressure ",
+                    "repeatable": "Y",
+                    "timeInterval": "365",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5264-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5265-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil Remove unit to change oil",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5266-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace copper filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5267-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5268-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5269-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check valve ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "1000",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d526a-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "900",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d526b-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "875",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d526c-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "875",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d526d-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "800",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d526e-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "750",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d526f-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil Remove unit to change oil",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "750",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5270-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "750",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5271-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "700",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5272-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "625",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5273-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "625",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5274-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "600",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5275-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "500",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5276-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "500",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5277-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil Remove unit to change oil",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "500",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5278-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "500",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5279-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check valve ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "500",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d527a-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "400",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d527b-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "375",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d527c-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "375",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d527d-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "300",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d527e-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d527f-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil Remove unit to change oil",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5280-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "250",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5281-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "200",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5282-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "125",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5283-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check inlet filter ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "125",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5284-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean and check oil water separator ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "100",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5285-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil Remove unit to change oil",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "75",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5286-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Tighten screws on valve cover ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "25",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5287-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check pressure guage  ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "25",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5288-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check cooling hose and joint air impermeability ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "25",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d5289-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check belt tension and abrasion ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "25",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d528a-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check filling valve function and air impermeability ",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "25",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d528b-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace oil Remove unit to change oil",
+                    "repeatable": "N",
+                    "timeInterval": "",
+                    "hourInterval": "25",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d528c-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Dehumidifier",
+            "description": "Dehumidifier",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.806Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d528d-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Filter ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.806Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d7970-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Deck Shower",
+            "description": "Deck Shower",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.807Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d7971-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Hsg & Handset with Soapy water/Inspect Plumbing ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.807Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d7972-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Deck & Hull",
+            "description": "Deck & Hull",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.807Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d7973-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Osmosis (@haul) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.807Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d7974-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Cut & polish (last @ The Bpatworks - 12/16) - NB: next \"due\" 12/17 ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.807Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d7975-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash with Fresh Water ",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "7",
+                    "lastServiceDate": "2023-04-16T15:03:56.807Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90d7976-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean Waterline (use ropes)  ",
+                    "repeatable": "",
+                    "timeInterval": "0",
+                    "hourInterval": "0",
+                    "lastServiceDate": "2023-04-16T15:03:56.807Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90d7977-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Cross Beam Bolt",
+            "description": "Cross Beam Bolt",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.807Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90d7978-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check (esp Port side) bolts tight ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.807Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90da080-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Cooking Pots",
+            "description": "Cooking Pots",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.808Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90da081-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean up (esp Frypan) & Coffee Pot & Kettle ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.808Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90da082-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Cockpit deck, Cabinets & transom",
+            "description": "Cockpit deck, Cabinets & transom",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.808Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90da083-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Scrub & Clean (G3 & Jiff) - last done 06/16 ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.808Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90da084-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Chair",
+            "description": "Chair",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.808Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90da085-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Protect/Polish Aluminium Frame ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.808Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90dc790-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Chain Counter - FIX SENSOR!",
+            "description": "Chain Counter - FIX SENSOR!",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.809Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90dc791-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check Cables & elec connections (never done) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.809Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90dc792-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Chain",
+            "description": "Chain Counter",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.809Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90dc793-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Recalibrate when necessary Quick Calibration Setting = 14.17 inches (distance of gypsy lap)",
+                    "repeatable": "Y",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.809Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90dc794-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Canvas",
+            "description": "TRX/Outboard cover/Kayaks/Breeze Boosters/Outdoor Seats",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.809Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90dc795-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Spray with 303 Protectant ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.809Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90deea0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Cabin panels",
+            "description": "Cabin panels",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.810Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90deea1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check all screw tightness (esp B4 passage) - last done 06/16 ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.810Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90deea2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Button & Zips",
+            "description": "Button & Zips",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.810Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90deea3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "ZIPCARE/Silicon - Bimini & Screecher Bag Zips, Bimini & Saloon Window cover Buttons (esp Rear Panels), Outdoor Seats, Storeroom (x3 zips), Stackpac ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.810Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90deea4-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Blackwater Tanks",
+            "description": "Blackwater Tanks",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.810Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90deea5-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean & Sterilize (Muraitic Acid) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.810Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90deea6-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check airrelief nipple & sieve/Check for damage & abrasion/check hoses & connections ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.810Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e15b0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Bimini",
+            "description": "Bimini",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.811Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e15b1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Wash/Demould Rolled up Bimini Panels (last done 12/16) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.811Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e15b2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Bilge Pumps",
+            "description": "Bilge Pumps",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.811Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e15b3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Check working (the vacuum excess) ",
+                    "repeatable": "",
+                    "timeInterval": "60",
+                    "hourInterval": "60",
+                    "lastServiceDate": "2023-04-16T15:03:56.811Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e3cc0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Bench Tops",
+            "description": "Bench Tops",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.812Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e3cc1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Cut (620/1500 W&Dry) & Polish (with G3 or 3M lightly oxidised) ",
+                    "repeatable": "",
+                    "timeInterval": "180",
+                    "hourInterval": "180",
+                    "lastServiceDate": "2023-04-16T15:03:56.812Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e3cc2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Batt car system",
+            "description": "Teflon Balls",
+            "notes": "",
+            "dateInstalled": "2023-02-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.812Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e3cc3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Replace when missing As needed",
+                    "repeatable": "",
+                    "timeInterval": "",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.812Z",
+                    "lastServiceHours": 0
+                },
+                {
+                    "UID": "e90e3cc4-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Spray with water only DO NOT USELUBES",
+                    "repeatable": "",
+                    "timeInterval": "7",
+                    "hourInterval": "",
+                    "lastServiceDate": "2023-04-16T15:03:56.812Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e63d0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Batcars",
+            "description": "Batcars",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.813Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e63d1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Remove & \"roll\" torlon balls sideways on all cars (last done 6/16) - Ensure all with pins facing down) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.813Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e63d2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "BBQ",
+            "description": "BBQ",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.813Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e63d3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Clean & Polish - last 06/16 (use oven cleaner) ",
+                    "repeatable": "",
+                    "timeInterval": "90",
+                    "hourInterval": "90",
+                    "lastServiceDate": "2023-04-16T15:03:56.813Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e8ae0-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Anchors",
+            "description": "Anchors",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.814Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e8ae1-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Shackles, Rope, Bridle (bleach) ",
+                    "repeatable": "",
+                    "timeInterval": "30",
+                    "hourInterval": "30",
+                    "lastServiceDate": "2023-04-16T15:03:56.814Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        },
+        {
+            "UID": "e90e8ae2-dc67-11ed-b82c-29e9fb85c0d2",
+            "name": "Anchor Chain",
+            "description": "Anchor Chain",
+            "notes": "",
+            "dateInstalled": "1970-01-01T00:00:00.000Z",
+            "trackHours": false,
+            "hours": 0,
+            "hoursLastUpdated": "2023-04-16T15:03:56.814Z",
+            "serialNumber": "",
+            "modules": [
+                {
+                    "UID": "e90e8ae3-dc67-11ed-b82c-29e9fb85c0d2",
+                    "name": "",
+                    "description": "Swap end for end (regalvanised 10/15) ",
+                    "repeatable": "",
+                    "timeInterval": "365",
+                    "hourInterval": "365",
+                    "lastServiceDate": "2023-04-16T15:03:56.814Z",
+                    "lastServiceHours": 0
+                }
+            ]
+        }
+    ]
+}
